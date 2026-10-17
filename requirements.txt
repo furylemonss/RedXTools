@@ -1,0 +1,16 @@
+requests
+tqdm
+colorama
+httpx
+PyJWT
+websocket-client
+selenium
+undetected-chromedriver
+webdriver-manager
+cryptocode
+jwt
+pyperclip
+websocket
+pycryptodome
+loguru
+pypresence
