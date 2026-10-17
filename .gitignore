@@ -1,0 +1,12 @@
+.env
+config.json
+proxies.txt
+results/
+Examples/
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
